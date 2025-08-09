@@ -196,9 +196,3 @@ npm test
 - Order management (create, list, update status, cancel)
 - Payment processing with Pix, credit/debit card (Stripe), and boleto
 
-Next steps:
-- Create frontend React app to consume these APIs with login, product listing, cart, and checkout pages
-- Add tests for backend routes and models
-- Write README with project info and instructions
-
-Please confirm if you want me to proceed with the frontend implementation or if you want any changes to the backend first.
